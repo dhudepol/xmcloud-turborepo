@@ -7,8 +7,7 @@
     "start:connected": "turbo run start:connected",
     "start:production": "turbo run start:production",
     "next:start": "turbo run next:start",
-    "format": "prettier --write \"**/*.{ts,tsx,md}\"",
-    "build2": "npm install && turbo run build"
+    "format": "prettier --write \"**/*.{ts,tsx,md}\""
   },
   "devDependencies": {
     "eslint": "^8.48.0",
