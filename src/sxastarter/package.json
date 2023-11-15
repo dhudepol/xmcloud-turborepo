@@ -15,7 +15,7 @@
     "tsconfig": "*",
     "turbo": "latest"
   },
-  "name": "BdrWhitelabel-turbo",
+  "name": "example-turbo",
   "packageManager": "npm@10.1.0",
   "workspaces": [
     "apps/*",
